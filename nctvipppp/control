@@ -1,0 +1,9 @@
+Package: com.fahlnbg.nctvip
+Name: NhacCuaTui Vip
+Author: (null)
+Description: 
+Depends: mobilesubstrate
+Maintainer: fahlnbg
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
